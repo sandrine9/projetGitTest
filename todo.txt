@@ -1,1 +1,3 @@
 liste course:
+- NM banane
+- NM pommes de terre
