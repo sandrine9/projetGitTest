@@ -1,5 +1,5 @@
 liste course:
 pommes
 carottes sandrine
-
-
+- NM banane
+- NM pommes de terre
